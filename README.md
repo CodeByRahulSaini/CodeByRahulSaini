@@ -26,9 +26,9 @@ Here are some of the tools in my coding toolbox:
 
 I enjoy giving back to the coding community. Here are a few of my open-source contributions:
 
-- [**mongo-seed-faker:**](https://github.com/YourGitHub/mongo-seed-faker) Quickly populate your MongoDB with data using FAKER.js.
-- [**react-native-tap-payment:**](https://github.com/YourGitHub/react-native-tap-payment) Implementation of Tap Payment's Android SDK for React Native.
-- [**express-server-logs:**](https://github.com/YourGitHub/express-server-logs) Log custom errors, info, warnings, and success messages in your Express.js app.
+- [**mongo-seed-faker:**](https://www.npmjs.com/package/mongo-seed-faker) Quickly populate your MongoDB with data using FAKER.js.
+- [**react-native-tap-payment:**](https://www.npmjs.com/package/react-native-tap-payment) Implementation of Tap Payment's Android SDK for React Native.
+- [**express-server-logs:**](https://github.com/nitinpadgotra/express-server-logs) Log custom errors, info, warnings, and success messages in your Express.js app.
 
 ## 🎓 Certifications
 
@@ -88,5 +88,5 @@ I love discussing tech and spirituality, and I'm constantly exploring new horizo
 
 
 
-Thanks for stopping by and checking out my coding journey! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-saini-profile/) or explore my projects on [GitHub](https://github.com/CodeByRahulSaini). Let's keep learning and coding together! 🚀
+Thanks for stopping by and checking out my coding journey! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-saini-profile/). Let's keep learning and coding together! 🚀
 
