@@ -18,7 +18,7 @@ Here are some of the tools in my coding toolbox:
 - **Back End:** Node JS, GraphQL, Socket.io, Express.js
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Testing:** Jest
-- **Deployment & CI/CD:** [GitHub Actions](https://github.com/features/actions), Docker, Google Play Store, [Apple's App Store](https://developer.apple.com/app-store/), AWS
+- **Deployment & CI/CD:** GitHub Actions, Docker, Google Play Store, Apple's App Store, AWS
 - **Other Tools:** Project Management, Agora (for video calls and cloud recording), Google & YouTube APIs, AWS APIs, SendGrid, DocuSign, Twilio, PayPal, Stripe, Sentry, Firebase, Shopify, Ionic, Git
 
 
