@@ -32,7 +32,7 @@ I enjoy giving back to the coding community. Here are a few of my open-source co
 
 ## 🎓 Certifications
 
-I'm all about continuous learning, and these certifications prove it:
+Enthusiastic about learning and grateful for the wealth of knowledge available on platforms like YouTube, Stack Overflow, GitHub, LinkedIn and now on ChatGPT & Bard (other LLMs).
 
 - React: Design Patterns, LinkedIn, 2023
 - Node.js: Security, LinkedIn, 2023
