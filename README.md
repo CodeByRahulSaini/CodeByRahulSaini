@@ -1,31 +1,95 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codebyrahulsaini&label=Profile%20views&color=0e75b6&style=flat" alt="codebyrahulsaini" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebyrahulsaini" alt="codebyrahulsaini" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+# Hey, I'm Rahul Saini! 👋
 
-- 🔭 I’m currently working on [Truesafe](https://www.truesafe.io/)
+Welcome to my coding journey! I'm a developer with over 8 years of experience in Mobile and Web Application Development. My passion for coding has led me to contribute to a wide range of projects, from Food and Education apps to SaaS platforms and beyond.
 
-- 💬 Ask me about **React, React Native, Node and MongoDB**
+## 🌟 What I'm All About
 
-- 📫 How to reach me **om.ks.rs@gmail.com**
+I'm on a never-ending quest for knowledge and improvement. With more than 6 years of experience in React, React Native, Node JS, and MongoDB, I've seen it all and I'm still hungry to learn more. I love being part of the entire app development lifecycle, from the initial idea to coding and finally deploying.
 
-- ⚡ Fun fact **I think therefore I am**
+## 🚀 My Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rahul-saini-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-saini-profile" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10016806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10016806" height="30" width="40" /></a>
-</p>
+Here are some of the tools in my coding toolbox:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+- **Languages:** JavaScript, TypeScript, PHP, HTML, CSS
+- **Front End:** React, React Native, Next JS, GraphQL, Redux, Saga, Socket.io, Material UI, Tailwind
+- **Back End:** Node JS, GraphQL, Socket.io, Express.js
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Testing:** Jest
+- **Deployment & CI/CD:** [GitHub Actions](https://github.com/features/actions), Docker, Google Play Store, [Apple's App Store](https://developer.apple.com/app-store/), AWS
+- **Other Tools:** Project Management, Agora (for video calls and cloud recording), Google & YouTube APIs, AWS APIs, SendGrid, DocuSign, Twilio, PayPal, Stripe, Sentry, Firebase, Shopify, Ionic, Git
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebyrahulsaini&show_icons=true&locale=en&layout=compact" alt="codebyrahulsaini" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codebyrahulsaini&show_icons=true&locale=en" alt="codebyrahulsaini" /></p>
+## 💡 Open-Source Contributions
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebyrahulsaini&" alt="codebyrahulsaini" /></p>
+I enjoy giving back to the coding community. Here are a few of my open-source contributions:
+
+- [**mongo-seed-faker:**](https://github.com/YourGitHub/mongo-seed-faker) Quickly populate your MongoDB with data using FAKER.js.
+- [**react-native-tap-payment:**](https://github.com/YourGitHub/react-native-tap-payment) Implementation of Tap Payment's Android SDK for React Native.
+- [**express-server-logs:**](https://github.com/YourGitHub/express-server-logs) Log custom errors, info, warnings, and success messages in your Express.js app.
+
+## 🎓 Certifications
+
+I'm all about continuous learning, and these certifications prove it:
+
+- React: Design Patterns, LinkedIn, 2023
+- Node.js: Security, LinkedIn, 2023
+- Node.js: Design Patterns, LinkedIn, 2023
+- Advanced Node.js: Scaling Applications, LinkedIn, 2023
+- Learning Next.js, LinkedIn, 2023
+- PostgreSQL Essential Training, LinkedIn, 2023
+- 6 Month Web Development Course from HCL Chandigarh, IN, 2014
+
+## 📚 Education
+ 
+
+- **Government Polytechnic College Ambala, IN**
+  - Diploma in Computer Science
+  - Learned everything from Web Designing to Linux, and much more.
+
+## 🌟 Accomplishments
+
+I'm not one to brag, but here are a few highlights:
+
+- **Optimized Gobble App's Performance:** Reduced RAM consumption from 90%-100% to 20-30% through code refactoring.
+- **Optimized Gobble APIs:** Improved API response times from 10+ seconds to less than 1 second with code and database refactoring.
+- **IAM System:** Built an Identity and Access Management system with Role-Based Access Control and 2-factor authentication in Labelcaster (MERN) from scratch.
+
+## 🏆 Awards
+
+It's nice to be recognized sometimes:
+
+- Star Employee at Igniva Infotech.
+- Best Team Project award for "Pwayz," an app for booking parking places at Igniva Infotech.
+- Employee of the Month at Cqlsys within the first month of employment.
+
+## 📆 Work History
+
+Here's where I've been putting my skills to good use:
+
+- **Gobble, Singapore - Remote** (February 2022 - Current)
+  - Senior Software Engineer
+
+- **Zamora Innovation Pvt. Ltd, Mohali, IN - Partial Remote** (July 2018 - February 2022)
+  - Senior Software Engineer
+
+- **Igniva Infotech Pvt. Ltd - Mohali, IN** (December 2016 - July 2018)
+  - Senior Software Engineer
+
+- **CQLsys Technologies Pvt. Ltd - Mohali, IN** (March 2015 - December 2016)
+  - Software Engineer
+
+## 🌍 Languages
+
+- English
+- Hindi
+
+## 🌟 Always Eager to Learn and Share!
+
+I love discussing tech and spirituality, and I'm constantly exploring new horizons. Feel free to chat with me anytime! 🚀
+
+
+Thanks for stopping by and checking out my coding journey! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-saini-profile/) or explore my projects on [GitHub](https://github.com/CodeByRahulSaini). Let's keep learning and coding together! 🚀
+
