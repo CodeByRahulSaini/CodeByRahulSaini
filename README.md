@@ -81,14 +81,11 @@ Here's where I've been putting my skills to good use:
 - **CQLsys Technologies Pvt. Ltd - Mohali, IN** (March 2015 - December 2016)
   - Software Engineer
 
-## 🌍 Languages
-
-- English
-- Hindi
 
 ## 🌟 Always Eager to Learn and Share!
 
 I love discussing tech and spirituality, and I'm constantly exploring new horizons. Feel free to chat with me anytime! 🚀
+
 
 
 Thanks for stopping by and checking out my coding journey! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-saini-profile/) or explore my projects on [GitHub](https://github.com/CodeByRahulSaini). Let's keep learning and coding together! 🚀
