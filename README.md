@@ -3,7 +3,7 @@
 
 # Hey, I'm Rahul Saini! 👋
 
-Welcome to my coding journey! I'm a developer with over 8 years of experience in Mobile and Web Application Development. My passion for coding has led me to contribute to a wide range of projects, from Food and Education apps to SaaS platforms and beyond.
+ I'm a fullstack developer with over 8 years of experience in Mobile and Web Application Development. My passion for coding has led me to contribute to a wide range of projects, from Food and Education apps to SaaS platforms and beyond.
 
 ## 🚀 My Skills
 
