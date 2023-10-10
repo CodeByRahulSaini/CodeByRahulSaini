@@ -4,9 +4,6 @@
 # Hey, I'm Rahul Saini! 👋
 
 Welcome to my coding journey! I'm a developer with over 8 years of experience in Mobile and Web Application Development. My passion for coding has led me to contribute to a wide range of projects, from Food and Education apps to SaaS platforms and beyond.
-
-## 🌟 What I'm All About
-
 I'm on a never-ending quest for knowledge and improvement. With more than 6 years of experience in React, React Native, Node JS, and MongoDB, I've seen it all and I'm still hungry to learn more. I love being part of the entire app development lifecycle, from the initial idea to coding and finally deploying.
 
 ## 🚀 My Skills
