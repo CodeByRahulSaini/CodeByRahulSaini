@@ -20,7 +20,7 @@ Here are some of the tools in my coding toolbox:
 
 ## 💡 Open-Source Contributions
 
-I enjoy giving back to the coding community. Here are a few of my open-source contributions:
+ Here are a few of my open-source contributions:
 
 - [**mongo-seed-faker:**](https://www.npmjs.com/package/mongo-seed-faker) Quickly populate your MongoDB with data using FAKER.js.
 - [**react-native-tap-payment:**](https://www.npmjs.com/package/react-native-tap-payment) Implementation of Tap Payment's Android SDK for React Native.
@@ -64,16 +64,16 @@ Few highlights:
 Here's where I've been putting my skills to good use:
 
 - **Gobble, Singapore - Remote** (February 2022 - Current)
-  - Senior Software Engineer
+  - Senior Software Engineer (Fullstack)
 
 - **Zamora Innovation Pvt. Ltd, Mohali, IN - Partial Remote** (July 2018 - February 2022)
-  - Senior Software Engineer
+  - Senior Software Engineer (Fullstack)
 
 - **Igniva Infotech Pvt. Ltd - Mohali, IN** (December 2016 - July 2018)
-  - Senior Software Engineer
+  - Software Engineer (Fullstack)
 
 - **CQLsys Technologies Pvt. Ltd - Mohali, IN** (March 2015 - December 2016)
-  - Software Engineer
+  - Software Engineer  
 
 
 ## 🌟 Always Eager to Learn and Share!
