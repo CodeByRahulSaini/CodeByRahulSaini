@@ -32,7 +32,7 @@ I enjoy giving back to the coding community. Here are a few of my open-source co
 
 ## 🎓 Certifications
 
-Enthusiastic about learning and grateful for the wealth of knowledge available on platforms like YouTube, Stack Overflow, GitHub, LinkedIn and now on ChatGPT & Bard (other LLMs).
+Enthusiastic about learning and grateful for the wealth of knowledge available on platforms like YouTube, Stack Overflow, GitHub, LinkedIn and now on ChatGPT & Bard (and on other LLMs).
 
 - React: Design Patterns, LinkedIn, 2023
 - Node.js: Security, LinkedIn, 2023
@@ -51,15 +51,13 @@ Enthusiastic about learning and grateful for the wealth of knowledge available o
 
 ## 🌟 Accomplishments
 
-I'm not one to brag, but here are a few highlights:
+Few highlights:
 
 - **Optimized Gobble App's Performance:** Reduced RAM consumption from 90%-100% to 20-30% through code refactoring.
 - **Optimized Gobble APIs:** Improved API response times from 10+ seconds to less than 1 second with code and database refactoring.
 - **IAM System:** Built an Identity and Access Management system with Role-Based Access Control and 2-factor authentication in Labelcaster (MERN) from scratch.
 
 ## 🏆 Awards
-
-It's nice to be recognized sometimes:
 
 - Star Employee at Igniva Infotech.
 - Best Team Project award for "Pwayz," an app for booking parking places at Igniva Infotech.
@@ -86,7 +84,8 @@ Here's where I've been putting my skills to good use:
 
 I love discussing tech and spirituality, and I'm constantly exploring new horizons. Feel free to chat with me anytime! 🚀
 
+ 
 
-
-Thanks for stopping by and checking out my coding journey! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-saini-profile/). Let's keep learning and coding together! 🚀
+### Thanks for stopping by
+ ... and checking out my coding journey! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-saini-profile/). Let's keep learning and coding together! 🚀
 
