@@ -18,22 +18,13 @@ Here are some of the tools in my coding toolbox:
 - **Other Tools:** Project Management, Agora (for video calls and cloud recording), Google & YouTube APIs, AWS APIs, SendGrid, DocuSign, Twilio, PayPal, Stripe, Sentry, Firebase, Shopify, Ionic, Git
 
 
-## 💡 Open-Source Contributions
-
- Here are a few of my open-source contributions:
-
-- [**mongo-seed-faker:**](https://www.npmjs.com/package/mongo-seed-faker) Quickly populate your MongoDB with data using FAKER.js.
-- [**react-native-tap-payment:**](https://www.npmjs.com/package/react-native-tap-payment) Implementation of Tap Payment's Android SDK for React Native.
-- [**express-server-logs:**](https://github.com/nitinpadgotra/express-server-logs) Log custom errors, info, warnings, and success messages in your Express.js app.
-
+ 
 ## 🎓 Certifications
 
 Enthusiastic about learning and grateful for the wealth of knowledge available on platforms like YouTube, Stack Overflow, GitHub, LinkedIn and now on ChatGPT & Bard (and on other LLMs).
 
 - React: Design Patterns, LinkedIn, 2023
-- Node.js: Security, LinkedIn, 2023
-- Node.js: Design Patterns, LinkedIn, 2023
-- Advanced Node.js: Scaling Applications, LinkedIn, 2023
+- Advanced Node.js: Security, Design Patterns, Scaling Applications, LinkedIn, 2023
 - Learning Next.js, LinkedIn, 2023
 - PostgreSQL Essential Training, LinkedIn, 2023
 - 6 Month Web Development Course from HCL Chandigarh, IN, 2014
@@ -43,7 +34,7 @@ Enthusiastic about learning and grateful for the wealth of knowledge available o
 
 - **Government Polytechnic College Ambala, IN**
   - Diploma in Computer Science
-  - Learned everything from Web Designing to Linux, and much more.
+  - Learned everything from Web Designing to software development lifecycle, DBMS, and much more.
 
 ## 🌟 Accomplishments
 
