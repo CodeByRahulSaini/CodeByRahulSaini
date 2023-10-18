@@ -6,7 +6,7 @@
 
 ## 🚀 I work with
 
-- **Languages:** JavaScript, TypeScript, PHP, HTML, CSS
+- **Languages:** JavaScript, TypeScript, HTML, CSS
 - **Front End:** React, React Native, Next JS, GraphQL, Redux, Saga, Socket.io, Material UI, Tailwind
 - **Back End:** Node JS, GraphQL, Socket.io, Express.js
 - **Databases:** MongoDB, MySQL, PostgreSQL
@@ -17,6 +17,6 @@
 
  
 
-### Thanks for stopping by
- ... and checking out my coding journey! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-saini-profile/). Let's keep learning and coding together! 🚀
+  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-saini-profile/). Let's keep learning and coding together! 🚀
 
