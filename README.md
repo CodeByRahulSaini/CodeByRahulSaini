@@ -1,10 +1,10 @@
 
 
 
-# Hey, I'm Rahul Saini! 👋
+### Hey, I'm Rahul Saini! 👋
 
 
-## 🚀 I work with
+### 🚀 I work with
 
 - **Languages:** JavaScript, TypeScript, HTML, CSS
 - **Front End:** React, React Native, Next JS, GraphQL, Redux, Saga, Socket.io, Material UI, Tailwind
