@@ -1,25 +1,3 @@
-## 💫 About Me:
-In the realm of code where bytes and bits play,
-I dance between lines, both night and day.
-Web and mobile paths, I often tread,
-Crafting solutions, steps ahead.
-
-React's gentle whispers, Node's steady hum,
-In this digital symphony, I become one.
-Yet while my GitHub might seem quite bare,
-Silent projects elsewhere declare my flair.
-
-Bound by NDAs, many works stay concealed,
-But in every secret project, my passion is revealed.
-In this vast software sea, I drift and dive,
-Forever curious, making ideas come alive.
-
-For I am someone who won't stand still,
-Adapting and learning, driven by sheer will.
-Back and forth in this realm, I do glide,
-With code as my compass, and curiosity my guide.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-saini-profile) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10016806) 
 
